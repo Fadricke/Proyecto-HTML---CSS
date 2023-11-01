@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: sans-serif;
+    font-size: 16px;
+}
+img{
+    width: 10%;
+    padding-top: 1em;
+}
+nav{
+    background-color: steelblue;
+}
+/* HOLA PROFE, ME TIRA UN ERROR DE LOCAL HOST Y NUNCA 
+PUDE ENTENDER CUAL ERA EL PROBLEMA,VI MUCHOS VIDEOS Y VISITE
+PAGINAS PERO NINGUNO ME AYUDO, POR LO TANTO NO PUEDO EDITAR 
+EL ESTILO DE LA PAGINA, YA QUE NO PUEDO VER LO QUE ESTOY HACIENDO.
